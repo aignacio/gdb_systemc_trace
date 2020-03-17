@@ -1,3 +1,11 @@
+ File              : README.md
+ Author            : Anderson Ignacio da Silva (aignacio) <anderson@aignacio.com>
+ Date              : 17.03.2020
+ Last Modified Date: 17.03.2020
+ Last Modified By  : Anderson Ignacio da Silva (aignacio) <anderson@aignacio.com>
+#
+# **PLEASE ADD THE .gdbinit inside this project into your $home and change the path in the file to point to the folder where you clonned the repository**
+
 # gdb_systemc_trace
 GDB Python scripts for SystemC design introspection and tracing
 
